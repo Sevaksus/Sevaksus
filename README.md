@@ -21,7 +21,7 @@ I am a Node.js Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time I study geology and gemology.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sevaksus-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/notfuncnotgain/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sevaksus-blue?style=flat&logo=Linkedin&logoColor=white)]
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
